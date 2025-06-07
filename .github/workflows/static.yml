@@ -1,0 +1,42 @@
+<body>
+  <div id="default-editor-page__placeholder" class="panel">
+    <link rel="stylesheet" href="https://coscdn.htmlpage.cn/vip-tpl/assets/css/plugins.css"/>
+    <link rel="stylesheet" href="https://coscdn.htmlpage.cn/vip-tpl/assets/css/style.css"/>
+    <section class="wrapper bg-gradient-primary">
+      <div class="container py-18 pt-md-14 pb-md-14">
+        <div class="row text-center">
+          <div class="col-lg-9 col-xxl-7 mx-auto">
+            <h2 id="标题" class="display-1 mb-4">WYing-CCC 的个人主页
+            </h2>
+            <p id="副标题" class="lead fs-24 lh-sm px-md-5 px-xl-15 px-xxl-10 mb-7">隐藏Root环境的脚本
+            </p>
+            <a href="https://github.com/WYing-CCC/WYing-CCC.github.io/releases/" title="Github" class="btn btn-lg btn-primary rounded-pill mx-1">跳转至隐藏脚本的Github仓库（PC端）</a>
+          </div>
+          <!-- /column -->
+        </div>
+        <!-- /.row -->
+        <!-- /div -->
+        <div class="d-flex justify-content-center">
+          <span></span>
+          <a href="http://www.coolapk.com/u/30424290" title="CoolAPK" class="btn btn-lg btn-outline-primary rounded-pill mx-1">               关注我的酷安账号               </a>
+          <a href="https://qm.qq.com/q/51NGaCbhMs" title="QQ" class="btn btn-lg btn-outline-primary rounded-pill mx-1">                  加入QQ群                  </a>
+          <span></span>
+        </div>
+        <div class="row mt-10">
+          <div class="col-lg-8 mx-auto">
+            <figure>
+              <img src="https://coscdn.htmlpage.cn/sandbox/assets/img/illustrations/i12.png" alt="" class="img-fluid"/>
+            </figure>
+          </div>
+          <!-- /column -->
+        </div>
+        <!-- /.row -->
+      </div>
+      <!-- /.container -->
+    </section>
+    <div class="wechat-group pb-12">
+    </div>
+    <div class="description">© 2025 WYing.CCC &amp; Github. 版权所有
+    </div>
+  </div>
+</body>
