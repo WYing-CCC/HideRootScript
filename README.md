@@ -13,7 +13,7 @@
 ## 使用方法
 1. **下载脚本**  
    ```bash
-   curl -LJO https://raw.githubusercontent.com/yu13140/EHoRY/main/AHide.sh
+   curl -LJO https://raw.githubusercontent.com/WYing-CCC/HideRootScript/main/AHide.sh
    ```
 3. **以Root权限运行**  
    ```bash
