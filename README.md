@@ -13,7 +13,7 @@
 ## 使用方法
 1. **下载脚本**  
    ```bash
-   curl -LJO https://raw.githubusercontent.com/WYing-CCC/HideRootScript/main/AHide.sh
+   curl -L -o /sdcard/Download/AHide.sh "https://github.com/WYing-CCC/HideRootScript/raw/refs/heads/main/AHide.sh"
    ```
 3. **以Root权限运行**  
    ```bash
@@ -26,10 +26,6 @@
 3. **网络要求**: 模块下载依赖GitHub，若连接失败请使用代理。
 
 ---
-
-## 许可证
-本项目采用**CC BY-NC-SA 4.0**许可证  
-想知道更多细节？[LICENSE](https://github.com/yu13140/EHoRY/blob/main/LICENSE).
 
 ## 联系
 - 作者: [酷安@抱紧我的玄黑黑鲨4S](http://www.coolapk.com/u/30424290)
