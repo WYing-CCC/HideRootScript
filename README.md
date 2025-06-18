@@ -15,6 +15,11 @@
    ```bash
    curl -L -o /sdcard/Download/AHide.sh "https://github.com/WYing-CCC/HideRootScript/raw/refs/heads/main/AHide.sh"
    ```
+2. **下载PC脚本**  
+   ```cmd
+   curl -o "https://github.com/WYing-CCC/HideRootScript/raw/refs/heads/main/AHidePC.zip"
+   ```
+   注：请确保您的系统自带Curl或已安装Curl，AHidePC下载路径通常在 C:\Windows\System32\Download ，在电脑按Win+R键，输入download后会跳转到系统的下载目
 3. **以Root权限运行**  
    ```bash
    su -c ./AHide.sh
